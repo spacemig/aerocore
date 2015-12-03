@@ -4,6 +4,9 @@ this document is to help anyone getting started with the Aerocore 1 (which has b
 
 # Troubleshooting
 
+## how to use QGroundControl with the Aerocore?
+it's possible to use QGroundControl just to monitor the drone when it's connected to the serial console using a USB cable, but how about if the aerocore board is airborne? I think the best would be to open two instances of Mavlink inside the aerocore (one for the gumsitx and another for the Xbee) and use a couple of XBees. I havent tested this.
+
 ## can I flash Aerocore 1 with QGroundControl?
 no! check this reply from Andrew Smith on the [px4users](https://groups.google.com/d/msg/px4users/mcP55Yn_2rE/Nr0a7PsDzuQJ) forum
 "Currently you can't flash the AeroCore using QGroundControl (need to use OpenOCD) but it will communicate to QGroundControl similar to a Pixhawk" on May 2014
