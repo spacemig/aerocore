@@ -19,4 +19,7 @@ references:
 - check [here](http://gumstix.8.x6.nabble.com/Calibrate-Radio-with-Aerocore-2-td4970105.html#a4970113)
 
 # other references
-- http://dev.px4.io/index.html
+- https://groups.google.com/forum/#!forum/px4users
+- http://dev.px4.io/index.html (new)
+- https://pixhawk.org/dev/start (old)
+- http://gumstix.8.x6.nabble.com/
