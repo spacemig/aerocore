@@ -27,6 +27,9 @@ gps status
 ```
 
 with GPS connected to connector 9 [1] pg 1 
+
+![Aerocore 2 map](/images/aerocore2map.png)
+
 ```
 nsh> gps status
 gps: protocol: UBX
