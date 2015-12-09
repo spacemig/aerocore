@@ -1,5 +1,7 @@
 # Testing the GPS on Aerocore 2
 
+Using the PRE-GO PPP from https://store.gumstix.com/prego-ppp.html
+
 The following table comes from the Aerocore 2 user manual (2015-07-10) pg 3
 
 | Pin  | Processor | Port | Signal   |
